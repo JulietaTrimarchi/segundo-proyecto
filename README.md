@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/logo.png" alt="Logo del Proyecto" width="400"/>
+    <img src="Images/logo.png" alt="Logo del Proyecto" width="400"/>
 </p>
 <h1 align="center">Análisis de Penetración y Acceso a Tecnologías de Internet en Argentina</h1>
 
